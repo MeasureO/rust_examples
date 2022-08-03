@@ -1,4 +1,6 @@
+const ID_1: i32 = 4; // define a global constant variable
 fn main() {
+    const ID_2: u32 = 3; // define a local constant variable
     let mut language = "Rust"; // define a mutable variable
     println!("Language: {}", language); // print the variable
     language = "Java"; // update the variable
