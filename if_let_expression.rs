@@ -46,6 +46,7 @@ fn main() {
     }
     // EXAMPLE 5
     // no pattern is define
+    // WARNING
     if let _ = 10 {
         println!("irrefutable if-let pattern is always executed");
     }
