@@ -1,3 +1,8 @@
+/*
+Rule No: 1#
+If an item is public it can be accessed from anywhere, i.e., within main function or any other module.
+*/
+
 // declare a module
 mod r {
   pub fn print_statement(){
