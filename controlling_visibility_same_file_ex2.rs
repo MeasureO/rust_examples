@@ -1,5 +1,5 @@
-Rule No: 2#
-If an item is private it can be accessed using its parent module meaning it can be accessed within the module but not outside it.
+// Rule No: 2#
+// If an item is private it can be accessed using its parent module meaning it can be accessed within the module but not outside it.
 
 // declare a module
 mod r{
